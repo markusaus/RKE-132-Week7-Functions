@@ -1,0 +1,14 @@
+C:\Users\ausma\source\repos\Functions\Discount\bin\Debug\net8.0\DiscountCalculator.exe
+C:\Users\ausma\source\repos\Functions\Discount\bin\Debug\net8.0\DiscountCalculator.deps.json
+C:\Users\ausma\source\repos\Functions\Discount\bin\Debug\net8.0\DiscountCalculator.runtimeconfig.json
+C:\Users\ausma\source\repos\Functions\Discount\bin\Debug\net8.0\DiscountCalculator.dll
+C:\Users\ausma\source\repos\Functions\Discount\bin\Debug\net8.0\DiscountCalculator.pdb
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.dll
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\refint\DiscountCalculator.dll
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.pdb
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\DiscountCalculator.genruntimeconfig.cache
+C:\Users\ausma\source\repos\Functions\Discount\obj\Debug\net8.0\ref\DiscountCalculator.dll
